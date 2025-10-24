@@ -1,5 +1,5 @@
 // math.test.js
-const { suma, multiplicar } = require('./math');
+const { suma, multiplicar } = require('./.github/workflows/math');
 
 test('suma 2 + 3 debe ser 5', () => {
   const resultado = suma(2, 3);
