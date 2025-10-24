@@ -1,5 +1,6 @@
 // math.js
 function suma(a, b) {
+  throw new Error("¡Error generado intencionalmente!");
   return a + b;
 }
 
